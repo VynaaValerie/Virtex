@@ -1,2 +1,0 @@
-# Virtex
-Virtex Ganas 
